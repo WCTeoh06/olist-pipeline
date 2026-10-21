@@ -6,3 +6,5 @@ airflow/.env
 .env
 airflow/config/
 airflow/plugins/
+airflow/config/
+airflow/plugins/
